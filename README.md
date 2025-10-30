@@ -1,4 +1,6 @@
 # Stephen
+# DO NOT DISCONNECT FROM YOUR SPOTIFY AFTER LOGGING IN
+# IT BREAK
 You will have to open the file and use 
 <br>
 <br>
