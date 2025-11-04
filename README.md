@@ -15,6 +15,4 @@ all of the api keys are linked in the .env file
 so you should only have to use those 2 commands
 to run the program locally as is.
 <br>
-I will let the rest of you work on the history and AI picture picker over the weekend. Either way I did my part of this.
-<br>
 Brain hurt.
